@@ -1,0 +1,8 @@
+samples/OdinPlugs.OdinPython.Sample/bin
+samples/OdinPlugs.OdinPython.Sample/obj
+
+src/OdinPlugs.OdinPython/bin
+src/OdinPlugs.OdinPython/obj
+
+test/OdinPlugs.OdinPython.Test/bin
+test/OdinPlugs.OdinPython.Test/obj
